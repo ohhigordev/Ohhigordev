@@ -1,7 +1,7 @@
 # Olá, meu nome é Higor 👋
 
 - 💻 Eu atualmente estou estudando Análise e Desenvolvimento de Sistemas
-- 🌱 Hoje meu foco de estudo é na linguagem Python
+- 🌱 Hoje meu foco de estudo é na linguagem Java
 - 🏫 Estudo hoje na faculdade Estácio de Sá
 - 📫 Contate-me: higor.nascimento0704@gmail.com
 - 😄 Pronouns: ELE/DELE
