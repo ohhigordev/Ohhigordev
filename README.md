@@ -29,14 +29,12 @@ Sou estudante do 5º período de Análise e Desenvolvimento de Sistemas, apaixon
 ---
 
 ### 📊 Estatísticas do GitHub
-
 <p align="center">
-### 📊 Estatísticas do GitHub
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohhigordev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-| Perfil | Tecnologias |
-| :---: | :---: |
-| <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ohhigordev&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" /> | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhigordev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" /> |
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohhigordev&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" />
 </p>
+
 
 ---
 
