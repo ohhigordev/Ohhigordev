@@ -15,7 +15,7 @@
 </div>
   
  # 🤖 Linguagens e Tecnologias
-<div style="display: inline_block"><br>
+<div><br>
     <img
       aling="left"
       alt="JAVA"
