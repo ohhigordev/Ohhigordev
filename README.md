@@ -20,7 +20,7 @@
       aling="left"
       alt="JAVA"
       title="JAVA"
-      widh="30px"
+      widh="5px"
       sytle="padding-rigth: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
       />
@@ -28,7 +28,7 @@
       aling="left"
       alt="JAVA"
       title="JAVA"
-      widh="30px"
+      widh="5px"
       sytle="padding-rigth: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
       />
@@ -36,7 +36,7 @@
       aling="left"
       alt="JAVA"
       title="JAVA"
-      widh="30px"
+      widh="5px"
       sytle="padding-rigth: 10px"
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
       />      
