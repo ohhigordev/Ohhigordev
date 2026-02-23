@@ -1,8 +1,9 @@
-# Olá, meu nome é Higor 👋
+# 👩‍💻 Higor Freitas
+**`Desenvolvedor Back End`**
 
-- 💻 Eu atualmente estou estudando Análise e Desenvolvimento de Sistemas
+- 💻 Estou no quinto periodo do curso de Análise e Desenvolvimento de Sistemas
 - 🌱 Hoje meu foco de estudo é na linguagem Java
-- 🏫 Estudo hoje na faculdade Estácio de Sá
+- 🏆 Foco em tecnologias como Spring Boot, Docker, MySQL, HabbitMQ, AWS etc.
 - 📫 Contate-me: higor.nascimento0704@gmail.com
 - 😄 Pronouns: ELE/DELE
 
@@ -13,12 +14,32 @@
 <img heigth="180em" src =https://github-readme-stats.vercel.app/api/top-langs/?username=ohhigordev&layout=compact&langs_count=16&threme=dark"/>
 </div>
   
- # Programas os quais eu tenho afinidade
+ # 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img
+      aling="left"
+      alt="JAVA"
+      title="JAVA"
+      widh="30px"
+      sytle="padding-rigth: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
+      />
+    <img
+      aling="left"
+      alt="JAVA"
+      title="JAVA"
+      widh="30px"
+      sytle="padding-rigth: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+      />
+    <img
+      aling="left"
+      alt="JAVA"
+      title="JAVA"
+      widh="30px"
+      sytle="padding-rigth: 10px"
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+      />      
 </div>
 
 # Onde me encontrar
